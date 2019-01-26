@@ -1,6 +1,5 @@
 [Domains](../index.md) | [Tasks](index.md)
 ---
-## Security Planning, Design, and Implementation
 
 ### 3.1 Stakeholder Requirements Definition
 
