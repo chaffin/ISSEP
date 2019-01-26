@@ -3,7 +3,7 @@
 ## Secure Operations, Maintenance, and Disposal
 
 ### 4.1 [Secure Operations](task-4.1.md)
-- Document and maintain secure operations strategy
+- [Document and maintain secure operations strategy](task-4.1.md#411)
 - Maintain and monitor continuous monitoring processes
 - Support the incident response process
 
