@@ -1,6 +1,5 @@
 &laquo; [Domains](../index.md)
 ---
-## 1. Security Engineering Principles
 
 ## 1.1 [General Security Principles](task-1.1.md)
 - Identify organizational security authority
