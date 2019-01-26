@@ -3,12 +3,21 @@
 
 ### 1.1 General Security Principles
 
-#### 1.1.1 Identify organizational security authority
-#### Identify elements of a system security policy
-#### Understand trust concepts and hierarchies
-#### Determine boundaries governed by security policies
-#### Specify complete mediation
-#### Determine least common mechanism
-#### Understand open design concepts
-#### Analyze psychological acceptability/usability
-#### Understand the importance of consistent measurement
+1.1.1 Identify organizational security authority
+
+
+1.1.2 Identify elements of a system security policy
+
+1.1.3 Understand trust concepts and hierarchies
+
+1.1.4 Determine boundaries governed by security policies
+
+1.1.5 Specify complete mediation
+
+1.1.6 Determine least common mechanism
+
+1.1.7 Understand open design concepts
+
+1.1.8 Analyze psychological acceptability/usability
+
+1.1.9 Understand the importance of consistent measurement
