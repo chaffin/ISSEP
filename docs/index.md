@@ -1,4 +1,4 @@
-## ISSMP
+## ISSEP
 Study guide for the Certified Information Systems Security Professional (CISSP) &mdash; Information Systems Security Engineering Professional (ISSEP) exam.
 
 ## Domains
