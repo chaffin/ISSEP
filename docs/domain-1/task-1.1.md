@@ -1,7 +1,7 @@
 [Domains](../index.md) | [Tasks](index.md)
 ---
 
-### 1.1 [General Security Principles](task-1.1.md)
+### 1.1 General Security Principles
 
 #### 1.1.1 Identify organizational security authority
 #### Identify elements of a system security policy
