@@ -7,8 +7,7 @@
 
 In the article featured in the [ISACA] Journal Volume 2, 2014 entitled **Aligning Information Security With Enterprise Risk Management Using ISO/IEC 27001:2013**, Vimal Mani, CISA, CICA povides a [three (3) page overview][ISO] of the key changes in the updated ISO/IEC 27001:2013 Standard. 
 
-#### 1.2.2 
-- Integrate risk management throughout the lifecycle
+#### 1.2.2 Integrate risk management throughout the lifecycle
 
 >This International Journal of Software and Web Sciences (IJSWS) paper goes through each phase of the [SDLC] and provides a minimum set of security steps that needs to be effectively incorporated into a system during its development.
 
@@ -20,5 +19,5 @@ According to The [MITRE] Corporation:
 [SDLC]:http://www.iasir.net/IJSWSpapers/IJSWS14-205.pdf
 [MITRE]:https://www.mitre.org/publications/systems-engineering-guide/se-life-cycle-building-blocks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2NzA3NDg0XX0=
+eyJoaXN0b3J5IjpbNjY3OTQ4NDcxLDgzNjcwNzQ4NF19
 -->
