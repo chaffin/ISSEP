@@ -15,13 +15,14 @@
 
 ### 1.1.6 Determine least common mechanism
 Least common mechanism
-: Minimize the amount of mechanism common to more than one user and depended on by all users[^1]
+: Minimize the amount of mechanism common to more than one user and depended on by all users[^1] Every shared mechanism (especially one involving shared variables) represents a potential information path between users and must be designed with great care to be sure it does not unintentionally compromise security[^2].
+
 ### 1.1.7 Understand open design concepts
 
 ### 1.1.8 Analyze psychological acceptability/usability
 
 ### 1.1.9 Understand the importance of consistent measurement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzg4ODg3MDIsLTExNTQ3MDk3MTcsLT
-U4OTcwMjUzMl19
+eyJoaXN0b3J5IjpbMTY1MjUwNjYzMSwtMTE1NDcwOTcxNywtNT
+g5NzAyNTMyXX0=
 -->
