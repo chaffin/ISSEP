@@ -30,11 +30,11 @@
 1.4.4  Understand security best practices applicable to the context
 
 [121]: task-1.2.md#121-align-security-risk-management-with-enterprise-risk-management
-[122]:(task-1.2.md#122-integrate-risk-management-throughout-the-lifecycle)
+[122]: task-1.2.md#122-integrate-risk-management-throughout-the-lifecycle
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyNzQ5NjE4LDEwMjAxNTczMDUsLTE4MD
-Q4ODg2MTksMjMzNTY5MjAsLTE4MTY1MTgyMjQsMTU2MjgzMzA0
-OSwtMTY3MjAxODEwOCwxMTc4MDA0NzU0LC0xODE2NTE4MjI0LC
-05Njg5MDI0ODIsMTUyNzQ0NTM5MywxNTI3NDQ1MzkzLDE3NjI0
-NDkxMTFdfQ==
+eyJoaXN0b3J5IjpbNTAxNzUwOTc3LDg1Mjc0OTYxOCwxMDIwMT
+U3MzA1LC0xODA0ODg4NjE5LDIzMzU2OTIwLC0xODE2NTE4MjI0
+LDE1NjI4MzMwNDksLTE2NzIwMTgxMDgsMTE3ODAwNDc1NCwtMT
+gxNjUxODIyNCwtOTY4OTAyNDgyLDE1Mjc0NDUzOTMsMTUyNzQ0
+NTM5MywxNzYyNDQ5MTExXX0=
 -->
