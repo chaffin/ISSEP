@@ -14,8 +14,10 @@
 ### 1.1.5 Specify complete mediation
 
 ### 1.1.6 Determine least common mechanism
-*[BLUF]: Bottom Line Up Front 
-*[HTML]: HyperText Markup Language
+|  |  |
+|--|--|
+|  |  |
+
 
 ### 1.1.7 Understand open design concepts
 
@@ -23,6 +25,6 @@
 
 ### 1.1.9 Understand the importance of consistent measurement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3Mzg5NjMzLC0xMTU0NzA5NzE3LC01OD
-k3MDI1MzJdfQ==
+eyJoaXN0b3J5IjpbLTEzODY4Mzk0MjUsLTExNTQ3MDk3MTcsLT
+U4OTcwMjUzMl19
 -->
