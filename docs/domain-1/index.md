@@ -29,12 +29,21 @@
 1.4.3  Understand separation of privilege/duties concepts
 1.4.4  Understand security best practices applicable to the context
 
+[111]: task-1.1.md#111-identify-organizational-security-authority
+[112]: task-1.1.md#112
+[1131]: task-1.1.md#113
+[1141]: task-1.1.md#114
+[1151]: task-1.1.md#115
+[111]: task-1.1.md#116
+[111]: task-1.1.md#117
+[111]: task-1.1.md#118
+[111]: task-1.1.md#119
 [121]: task-1.2.md#121-align-security-risk-management-with-enterprise-risk-management
 [122]: task-1.2.md#122-integrate-risk-management-throughout-the-lifecycle
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2Mjg1Mjg3LDg1Mjc0OTYxOCwxMDIwMT
-U3MzA1LC0xODA0ODg4NjE5LDIzMzU2OTIwLC0xODE2NTE4MjI0
-LDE1NjI4MzMwNDksLTE2NzIwMTgxMDgsMTE3ODAwNDc1NCwtMT
-gxNjUxODIyNCwtOTY4OTAyNDgyLDE1Mjc0NDUzOTMsMTUyNzQ0
-NTM5MywxNzYyNDQ5MTExXX0=
+eyJoaXN0b3J5IjpbLTE4NTUwODEzNzMsMzc2Mjg1Mjg3LDg1Mj
+c0OTYxOCwxMDIwMTU3MzA1LC0xODA0ODg4NjE5LDIzMzU2OTIw
+LC0xODE2NTE4MjI0LDE1NjI4MzMwNDksLTE2NzIwMTgxMDgsMT
+E3ODAwNDc1NCwtMTgxNjUxODIyNCwtOTY4OTAyNDgyLDE1Mjc0
+NDUzOTMsMTUyNzQ0NTM5MywxNzYyNDQ5MTExXX0=
 -->
