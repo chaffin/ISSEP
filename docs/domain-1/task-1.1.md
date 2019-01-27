@@ -25,12 +25,16 @@ Least common mechanism
 
 
 
-[^1]: WebSite: web.mit.edu
+[^1]: Basic Principles Of Information Protection; web.mit.edu: October 17, 1997, 9:55:27 PM CDT, http://web.mit.edu/Saltzer/www/publications/protection/Basic.html
+[WebSite: web.mit.edu
 Modified: October 17, 1997, 9:55:27 PM CDT
 Title: Basic Principles Of Information Protection
 Address: http://web.mit.edu/Saltzer/www/publications/protection/Basic.html
-[
+[^2]: WebSite: www.us-cert.gov
+Modified: January 27, 2019, 9:51:15 AM CST
+Title: Least Common Mechanism | US-CERT
+Address: https://www.us-cert.gov/bsi/articles/knowledge/principles/least-common-mechanism
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0MjI3OTcwLC0xMTU0NzA5NzE3LC01OD
-k3MDI1MzJdfQ==
+eyJoaXN0b3J5IjpbMTcxNDI1MDMyNSwtMTE1NDcwOTcxNywtNT
+g5NzAyNTMyXX0=
 -->
