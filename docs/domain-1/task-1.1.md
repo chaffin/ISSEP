@@ -22,7 +22,15 @@ Least common mechanism
 ### 1.1.8 Analyze psychological acceptability/usability
 
 ### 1.1.9 Understand the importance of consistent measurement
+
+
+
+[^1]: WebSite: web.mit.edu
+Modified: October 17, 1997, 9:55:27 PM CDT
+Title: Basic Principles Of Information Protection
+Address: http://web.mit.edu/Saltzer/www/publications/protection/Basic.html
+[
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjUwNjYzMSwtMTE1NDcwOTcxNywtNT
-g5NzAyNTMyXX0=
+eyJoaXN0b3J5IjpbODg0MjI3OTcwLC0xMTU0NzA5NzE3LC01OD
+k3MDI1MzJdfQ==
 -->
