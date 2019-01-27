@@ -2,9 +2,9 @@
 ---
 ### 1.2 Security Risk Management Principles
 
-1.2.1 Align security risk management with enterprise risk management
+#### 1.2.1 Align security risk management with enterprise risk management
 
-In the article featured in the [ISACA] Journal Volume 2, 2014 entitled **Aligning Information Security With Enterprise Risk Management Using ISO/IEC 27001:2013**, Vimal Mani, CISA, CICA povides a [three (3) page overview][ISO] of the following are the key changes in the updated ISO/IEC 27001:2013 Standard. 
+In the article featured in the [ISACA] Journal Volume 2, 2014 entitled **Aligning Information Security With Enterprise Risk Management Using ISO/IEC 27001:2013**, Vimal Mani, CISA, CICA povides a [three (3) page overview][ISO] of the key changes in the updated ISO/IEC 27001:2013 Standard. 
 
 - Changes introduced in risk assessment
 -  Introduction of risk ownership 
@@ -14,7 +14,7 @@ In the article featured in the [ISACA] Journal Volume 2, 2014 entitled **Alignin
 - Improved communication on information security
 - Improved management oversight through monitoring of controls
 
-1.2.2 Integrate risk management throughout the lifecycle
+#### 1.2.2 Integrate risk management throughout the lifecycle
 
 
 
