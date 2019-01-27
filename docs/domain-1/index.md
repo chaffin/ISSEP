@@ -7,15 +7,15 @@
 1.1.2  Identify elements of a system security policy
 1.1.3 Understand trust concepts and hierarchies
 1.1.4 Determine boundaries governed by security policies
-- Specify complete mediation
-- Determine least common mechanism
-- Understand open design concepts
-- Analyze psychological acceptability/usability
-- Understand the importance of consistent measurement
+1.1.5 Specify complete mediation
+1.1.6 Determine least common mechanism
+1.1.7 Understand open design concepts
+1.1.8 Analyze psychological acceptability/usability
+1.1.9 Understand the importance of consistent measurement
 
 ### 1.2 [Security Risk Management Principles](task-1.2.md)
-- Align security risk management with enterprise risk management
-- Integrate risk management throughout the lifecycle
+1.2.1  Align security risk management with enterprise risk management
+1.2.2  Integrate risk management throughout the lifecycle
 
 ### 1.3 [System Resilience Principles](task-1.3.md)
 - Apply resilience methods to address threats
@@ -29,5 +29,5 @@
 - Understand separation of privilege/duties concepts
 - Understand security best practices applicable to the context
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODAyODk1ODZdfQ==
+eyJoaXN0b3J5IjpbMTk5MTU0MzQxXX0=
 -->
