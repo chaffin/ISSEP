@@ -23,8 +23,8 @@
 [212]: task-2.1.md#211-establish-risk-context
 [213]: task-2.1.md#213-perform-risk-analysis
 [214]: task-2.1.md#214-perform-risk-evaluation
-[215]: task-2.1.md#215
-[221]: task-2.2.md#221
+[215]: task-2.1.md#215-recommend-risk-treatment-options
+[221]: task-2.2.md#221-confirm-operational-risk-appetite
 [222]: task-2.2.md#222
 [223]: task-2.2.md#223
 [224]: task-2.2.md#224
@@ -32,5 +32,5 @@
 [226]: task-2.2.md#226
 [227]: task-2.2.md#227
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDI2ODIwMDJdfQ==
+eyJoaXN0b3J5IjpbLTYwMDE5NTYwNl19
 -->
