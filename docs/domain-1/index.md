@@ -4,7 +4,7 @@
 
 ### 1.1 [General Security Principles](task-1.1.md)
 1.1.1  [Identify organizational security authority][111]  
-1.1.2  [Identify elements of a system security policy[112]  
+1.1.2  [Identify elements of a system security policy][112]  
 1.1.3 [Understand trust concepts and hierarchies][113]  
 1.1.4 [Determine boundaries governed by security policies][114]  
 1.1.5 [Specify complete mediation][115]  
@@ -44,10 +44,11 @@
 [132]: task-1.3.md#132
 [133]: task-1.3.md#133
 [134]: task-1.3.md#134
+[134]: task-1.3.md#134
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTk0MDA4OCwzNzYyODUyODcsODUyNz
-Q5NjE4LDEwMjAxNTczMDUsLTE4MDQ4ODg2MTksMjMzNTY5MjAs
-LTE4MTY1MTgyMjQsMTU2MjgzMzA0OSwtMTY3MjAxODEwOCwxMT
-c4MDA0NzU0LC0xODE2NTE4MjI0LC05Njg5MDI0ODIsMTUyNzQ0
-NTM5MywxNTI3NDQ1MzkzLDE3NjI0NDkxMTFdfQ==
+eyJoaXN0b3J5IjpbLTE1NzAwNjk0NjcsMzc2Mjg1Mjg3LDg1Mj
+c0OTYxOCwxMDIwMTU3MzA1LC0xODA0ODg4NjE5LDIzMzU2OTIw
+LC0xODE2NTE4MjI0LDE1NjI4MzMwNDksLTE2NzIwMTgxMDgsMT
+E3ODAwNDc1NCwtMTgxNjUxODIyNCwtOTY4OTAyNDgyLDE1Mjc0
+NDUzOTMsMTUyNzQ0NTM5MywxNzYyNDQ5MTExXX0=
 -->
