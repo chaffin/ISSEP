@@ -18,15 +18,15 @@
 1.2.2  [Integrate risk management throughout the lifecycle][122]
 
 ### 1.3 [System Resilience Principles](task-1.3.md)
-1.3.1  [Apply resilience methods to address threats][131]
-1.3.2  [Understand concepts of layered security][132]
-1.3.3  [Specify fail-safe defaults][133]
-1.3.4  [Avoid single points of failure][134]
+1.3.1  [Apply resilience methods to address threats][131]  
+1.3.2  [Understand concepts of layered security][132]  
+1.3.3  [Specify fail-safe defaults][133]  
+1.3.4  [Avoid single points of failure][134]  
 
 ### 1.4 [Vulnerability Management Principles](task-1.4.md)
-1.4.1  [Incorporate least privilege concepts][141]
-1.4.2  [Understand economy of mechanism][142]
-1.4.3  [Understand separation of privilege/duties concepts][143]
+1.4.1  [Incorporate least privilege concepts][141]  
+1.4.2  [Understand economy of mechanism][142]  
+1.4.3  [Understand separation of privilege/duties concepts][143]  
 1.4.4  [Understand security best practices applicable to the context][144]
 
 [111]: task-1.1.md#111-identify-organizational-security-authority
@@ -49,10 +49,9 @@
 [143]: task-1.4.md#143-understand-separation-of-privilegeduties-concepts
 [144]: task-1.4.md#144-understand-security-best-practices-applicable-to-the-context
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1Njc3MDg1LDMyMTEyNTA0OSwzNzYyOD
-UyODcsODUyNzQ5NjE4LDEwMjAxNTczMDUsLTE4MDQ4ODg2MTks
-MjMzNTY5MjAsLTE4MTY1MTgyMjQsMTU2MjgzMzA0OSwtMTY3Mj
-AxODEwOCwxMTc4MDA0NzU0LC0xODE2NTE4MjI0LC05Njg5MDI0
-ODIsMTUyNzQ0NTM5MywxNTI3NDQ1MzkzLDE3NjI0NDkxMTFdfQ
-==
+eyJoaXN0b3J5IjpbNjEyMDgyMjEsMzIxMTI1MDQ5LDM3NjI4NT
+I4Nyw4NTI3NDk2MTgsMTAyMDE1NzMwNSwtMTgwNDg4ODYxOSwy
+MzM1NjkyMCwtMTgxNjUxODIyNCwxNTYyODMzMDQ5LC0xNjcyMD
+E4MTA4LDExNzgwMDQ3NTQsLTE4MTY1MTgyMjQsLTk2ODkwMjQ4
+MiwxNTI3NDQ1MzkzLDE1Mjc0NDUzOTMsMTc2MjQ0OTExMV19
 -->
