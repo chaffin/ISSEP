@@ -27,11 +27,11 @@ Wallach explains the principle of **least common mechanism** concerning its dang
 
 
 
-[^1]: Basic Principles Of Information Protection; web.mit.edu: October 17, 1997, 9:55:27 PM CDT; http://web.mit.edu/Saltzer/www/publications/protection/Basic.html
+[^1]: Gegick,M., Barnum,S.; Basic Principles Of Information Protection; web.mit.edu: October 17, 1997, 9:55:27 PM CDT; http://web.mit.edu/Saltzer/www/publications/protection/Basic.html
 [^2]: Least Common Mechanism \| US-CERT; www.us-cert.gov: January 27, 2019, 9:51:15 AM CST; https://www.us-cert.gov/bsi/articles/knowledge/principles/least-common-mechanism
 [^3]: Wallach, Dan; 7/26/1997, Least Common Mechanism; sip.cs.princeton.edu: December 4, 1997, 7:23:11 PM CST; http://sip.cs.princeton.edu/pub/sosp97/node15.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Nzc0NjUzMywtOTIyMjQ4Njg1LDE5NT
-MyMTI3MDMsMTk3NDM4NDcwMiwxNDExNjkwODk0LC0xMTU0NzA5
-NzE3LC01ODk3MDI1MzJdfQ==
+eyJoaXN0b3J5IjpbMjI0NDQxOTg5LC05MjIyNDg2ODUsMTk1Mz
+IxMjcwMywxOTc0Mzg0NzAyLDE0MTE2OTA4OTQsLTExNTQ3MDk3
+MTcsLTU4OTcwMjUzMl19
 -->
