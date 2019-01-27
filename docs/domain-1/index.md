@@ -14,8 +14,8 @@
 1.1.9 Understand the importance of consistent measurement  
 
 ### 1.2 [Security Risk Management Principles](task-1.2.md)
-1.2.1  [Align security risk management with enterprise risk management](task-1.2.md#[121])  
-1.2.2  [Integrate risk management throughout the lifecycle](task-1.2.md#122-integrate-risk-management-throughout-the-lifecycle)
+1.2.1  [Align security risk management with enterprise risk management][121]  
+1.2.2  [Integrate risk management throughout the lifecycle][122]
 
 ### 1.3 [System Resilience Principles](task-1.3.md)
 1.3.1  Apply resilience methods to address threats
@@ -29,11 +29,12 @@
 1.4.3  Understand separation of privilege/duties concepts
 1.4.4  Understand security best practices applicable to the context
 
-[121]: 121-align-security-risk-management-with-enterprise-risk-management
+[121]: task-1.2.md#121-align-security-risk-management-with-enterprise-risk-management
+[122]:(task-1.2.md#122-integrate-risk-management-throughout-the-lifecycle)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjUzNzkxMDEsMTAyMDE1NzMwNSwtMT
-gwNDg4ODYxOSwyMzM1NjkyMCwtMTgxNjUxODIyNCwxNTYyODMz
-MDQ5LC0xNjcyMDE4MTA4LDExNzgwMDQ3NTQsLTE4MTY1MTgyMj
-QsLTk2ODkwMjQ4MiwxNTI3NDQ1MzkzLDE1Mjc0NDUzOTMsMTc2
-MjQ0OTExMV19
+eyJoaXN0b3J5IjpbODUyNzQ5NjE4LDEwMjAxNTczMDUsLTE4MD
+Q4ODg2MTksMjMzNTY5MjAsLTE4MTY1MTgyMjQsMTU2MjgzMzA0
+OSwtMTY3MjAxODEwOCwxMTc4MDA0NzU0LC0xODE2NTE4MjI0LC
+05Njg5MDI0ODIsMTUyNzQ0NTM5MywxNTI3NDQ1MzkzLDE3NjI0
+NDkxMTFdfQ==
 -->
