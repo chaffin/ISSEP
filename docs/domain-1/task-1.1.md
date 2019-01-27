@@ -14,17 +14,14 @@
 ### 1.1.5 Specify complete mediation
 
 ### 1.1.6 Determine least common mechanism
-|  |  |
-|--|--|
-|  |  |
-
-
+Least common mechanism
+: Minimize the amount of mechanism common to more than one user and depended on by all users[^1]
 ### 1.1.7 Understand open design concepts
 
 ### 1.1.8 Analyze psychological acceptability/usability
 
 ### 1.1.9 Understand the importance of consistent measurement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODY4Mzk0MjUsLTExNTQ3MDk3MTcsLT
+eyJoaXN0b3J5IjpbLTEyMzg4ODg3MDIsLTExNTQ3MDk3MTcsLT
 U4OTcwMjUzMl19
 -->
