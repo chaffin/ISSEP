@@ -18,10 +18,10 @@
 1.2.2  [Integrate risk management throughout the lifecycle][122]
 
 ### 1.3 [System Resilience Principles](task-1.3.md)
-1.3.1  Apply resilience methods to address threats
-1.3.2  Understand concepts of layered security
-1.3.3  Specify fail-safe defaults
-1.3.4  Avoid single points of failure
+1.3.1  [Apply resilience methods to address threats][131]
+1.3.2  [Understand concepts of layered security][132]
+1.3.3  [Specify fail-safe defaults][133]
+1.3.4  [Avoid single points of failure][134]
 
 ### 1.4 [Vulnerability Management Principles](task-1.4.md)
 1.4.1  Incorporate least privilege concepts
@@ -40,11 +40,14 @@
 [119]: task-1.1.md#119
 [121]: task-1.2.md#121-align-security-risk-management-with-enterprise-risk-management
 [122]: task-1.2.md#122-integrate-risk-management-throughout-the-lifecycle
-
+[131]: task-1.3.md#131
+[132]: task-1.3.md#132
+[133]: task-1.3.md#133
+[134]: task-1.3.md#134
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzY1NTIzNiwzNzYyODUyODcsODUyNz
-Q5NjE4LDEwMjAxNTczMDUsLTE4MDQ4ODg2MTksMjMzNTY5MjAs
-LTE4MTY1MTgyMjQsMTU2MjgzMzA0OSwtMTY3MjAxODEwOCwxMT
-c4MDA0NzU0LC0xODE2NTE4MjI0LC05Njg5MDI0ODIsMTUyNzQ0
-NTM5MywxNTI3NDQ1MzkzLDE3NjI0NDkxMTFdfQ==
+eyJoaXN0b3J5IjpbNTQxMzc2NDU4LDM3NjI4NTI4Nyw4NTI3ND
+k2MTgsMTAyMDE1NzMwNSwtMTgwNDg4ODYxOSwyMzM1NjkyMCwt
+MTgxNjUxODIyNCwxNTYyODMzMDQ5LC0xNjcyMDE4MTA4LDExNz
+gwMDQ3NTQsLTE4MTY1MTgyMjQsLTk2ODkwMjQ4MiwxNTI3NDQ1
+MzkzLDE1Mjc0NDUzOTMsMTc2MjQ0OTExMV19
 -->
