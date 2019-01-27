@@ -17,8 +17,7 @@
 Least common mechanism
 : To minimize the amount of mechanism common to more than one user and depended on by all users.[^1] Every shared mechanism (especially one involving shared variables) represents a potential information path between users and must be designed with great care to be sure it does not unintentionally compromise security.[^2]
 
-Example
-: 
+ 
 ### 1.1.7 Understand open design concepts
 
 ### 1.1.8 Analyze psychological acceptability/usability
@@ -29,7 +28,9 @@ Example
 
 [^1]: Basic Principles Of Information Protection; web.mit.edu: October 17, 1997, 9:55:27 PM CDT; http://web.mit.edu/Saltzer/www/publications/protection/Basic.html
 [^2]: Least Common Mechanism \| US-CERT; www.us-cert.gov: January 27, 2019, 9:51:15 AM CST; https://www.us-cert.gov/bsi/articles/knowledge/principles/least-common-mechanism
+[^3]: Least Common Mechanism; sip.cs.princeton.edu: December 4, 1997, 7:23:11 PM CST; http://sip.cs.princeton.edu/pub/sosp97/node15.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzIxMjcwMywxOTc0Mzg0NzAyLDE0MT
-E2OTA4OTQsLTExNTQ3MDk3MTcsLTU4OTcwMjUzMl19
+eyJoaXN0b3J5IjpbLTE4NDc1NjU4MzUsMTk1MzIxMjcwMywxOT
+c0Mzg0NzAyLDE0MTE2OTA4OTQsLTExNTQ3MDk3MTcsLTU4OTcw
+MjUzMl19
 -->
