@@ -18,16 +18,16 @@
 1.2.2  Integrate risk management throughout the lifecycle
 
 ### 1.3 [System Resilience Principles](task-1.3.md)
-- Apply resilience methods to address threats
-- Understand concepts of layered security
-- Specify fail-safe defaults
-- Avoid single points of failure
+1.3.1  Apply resilience methods to address threats
+1.3.2  Understand concepts of layered security
+1.3.3  Specify fail-safe defaults
+1.3.4  Avoid single points of failure
 
 ### 1.4 [Vulnerability Management Principles](task-1.4.md)
-- Incorporate least privilege concepts
-- Understand economy of mechanism
-- Understand separation of privilege/duties concepts
-- Understand security best practices applicable to the context
+1.4.1  Incorporate least privilege concepts
+1.4.2  Understand economy of mechanism
+1.4.3  Understand separation of privilege/duties concepts
+1.4.4  Understand security best practices applicable to the context
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTU0MzQxXX0=
+eyJoaXN0b3J5IjpbMTc2MjQ0OTExMV19
 -->
