@@ -24,10 +24,10 @@
 1.3.4  [Avoid single points of failure][134]
 
 ### 1.4 [Vulnerability Management Principles](task-1.4.md)
-1.4.1  Incorporate least privilege concepts
-1.4.2  Understand economy of mechanism
-1.4.3  Understand separation of privilege/duties concepts
-1.4.4  Understand security best practices applicable to the context
+1.4.1  [Incorporate least privilege concepts][141]
+1.4.2  [Understand economy of mechanism][142]
+1.4.3  [Understand separation of privilege/duties concepts][143]
+1.4.4  [Understand security best practices applicable to the context][144]
 
 [111]: task-1.1.md#111-identify-organizational-security-authority
 [112]: task-1.1.md#112
@@ -45,9 +45,9 @@
 [133]: task-1.3.md#133
 [134]: task-1.3.md#134
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxMzc2NDU4LDM3NjI4NTI4Nyw4NTI3ND
-k2MTgsMTAyMDE1NzMwNSwtMTgwNDg4ODYxOSwyMzM1NjkyMCwt
-MTgxNjUxODIyNCwxNTYyODMzMDQ5LC0xNjcyMDE4MTA4LDExNz
-gwMDQ3NTQsLTE4MTY1MTgyMjQsLTk2ODkwMjQ4MiwxNTI3NDQ1
-MzkzLDE1Mjc0NDUzOTMsMTc2MjQ0OTExMV19
+eyJoaXN0b3J5IjpbLTY1MTk0MDA4OCwzNzYyODUyODcsODUyNz
+Q5NjE4LDEwMjAxNTczMDUsLTE4MDQ4ODg2MTksMjMzNTY5MjAs
+LTE4MTY1MTgyMjQsMTU2MjgzMzA0OSwtMTY3MjAxODEwOCwxMT
+c4MDA0NzU0LC0xODE2NTE4MjI0LC05Njg5MDI0ODIsMTUyNzQ0
+NTM5MywxNTI3NDQ1MzkzLDE3NjI0NDkxMTFdfQ==
 -->
