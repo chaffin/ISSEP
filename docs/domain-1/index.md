@@ -27,7 +27,7 @@
 1.4.1  [Incorporate least privilege concepts][141]  
 1.4.2  [Understand economy of mechanism][142]  
 1.4.3  [Understand separation of privilege/duties concepts][143]  
-1.4.4  [Understand security best practices applicable to the context][144]
+1.4.4  [Understand security best practices applicable to the context][144]  
 
 [111]: task-1.1.md#111-identify-organizational-security-authority
 [112]: task-1.1.md#112-identify-elements-of-a-system-security-policy
@@ -49,9 +49,10 @@
 [143]: task-1.4.md#143-understand-separation-of-privilegeduties-concepts
 [144]: task-1.4.md#144-understand-security-best-practices-applicable-to-the-context
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyMDgyMjEsMzIxMTI1MDQ5LDM3NjI4NT
-I4Nyw4NTI3NDk2MTgsMTAyMDE1NzMwNSwtMTgwNDg4ODYxOSwy
-MzM1NjkyMCwtMTgxNjUxODIyNCwxNTYyODMzMDQ5LC0xNjcyMD
-E4MTA4LDExNzgwMDQ3NTQsLTE4MTY1MTgyMjQsLTk2ODkwMjQ4
-MiwxNTI3NDQ1MzkzLDE1Mjc0NDUzOTMsMTc2MjQ0OTExMV19
+eyJoaXN0b3J5IjpbLTY1NzU4NzIzNSwzMjExMjUwNDksMzc2Mj
+g1Mjg3LDg1Mjc0OTYxOCwxMDIwMTU3MzA1LC0xODA0ODg4NjE5
+LDIzMzU2OTIwLC0xODE2NTE4MjI0LDE1NjI4MzMwNDksLTE2Nz
+IwMTgxMDgsMTE3ODAwNDc1NCwtMTgxNjUxODIyNCwtOTY4OTAy
+NDgyLDE1Mjc0NDUzOTMsMTUyNzQ0NTM5MywxNzYyNDQ5MTExXX
+0=
 -->
