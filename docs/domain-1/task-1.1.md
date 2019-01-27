@@ -3,7 +3,7 @@
 
 ### 1.1 General Security Principles
 
-#### 1.1.1 Identify organizational security authority {task-1.1.md#111}
+#### 1.1.1 Identify organizational security authority
 
 1.1.2 Identify elements of a system security policy
 
@@ -21,5 +21,5 @@
 
 1.1.9 Understand the importance of consistent measurement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTcwMjUzMl19
+eyJoaXN0b3J5IjpbLTExNTQ3MDk3MTcsLTU4OTcwMjUzMl19
 -->
