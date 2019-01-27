@@ -42,17 +42,17 @@
 [122]: task-1.2.md#122-integrate-risk-management-throughout-the-lifecycle
 [131]: task-1.3.md#131-apply-resilience-methods-to-address-threats
 [132]: task-1.3.md#132-understand-concepts-of-layered-security
-[133]: task-1.3.md#133
-[134]: task-1.3.md#134
-[141]: task-1.4.md#141
-[142]: task-1.4.md#142
-[143]: task-1.4.md#143
-[144]: task-1.4.md#144
+[133]: task-1.3.md#133-specify-fail-safe-defaults
+[134]: task-1.3.md#134-avoid-single-points-of-failure
+[141]: task-1.4.md#141-incorporate-least-privilege-concepts
+[142]: task-1.4.md#142-understand-economy-of-mechanism
+[143]: task-1.4.md#143-understand-separation-of-privilegeduties-concepts
+[144]: task-1.4.md#144-understand-security-best-practices-applicable-to-the-context
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzA2NTU4NDQsMzIxMTI1MDQ5LDM3Nj
-I4NTI4Nyw4NTI3NDk2MTgsMTAyMDE1NzMwNSwtMTgwNDg4ODYx
-OSwyMzM1NjkyMCwtMTgxNjUxODIyNCwxNTYyODMzMDQ5LC0xNj
-cyMDE4MTA4LDExNzgwMDQ3NTQsLTE4MTY1MTgyMjQsLTk2ODkw
-MjQ4MiwxNTI3NDQ1MzkzLDE1Mjc0NDUzOTMsMTc2MjQ0OTExMV
-19
+eyJoaXN0b3J5IjpbODU1Njc3MDg1LDMyMTEyNTA0OSwzNzYyOD
+UyODcsODUyNzQ5NjE4LDEwMjAxNTczMDUsLTE4MDQ4ODg2MTks
+MjMzNTY5MjAsLTE4MTY1MTgyMjQsMTU2MjgzMzA0OSwtMTY3Mj
+AxODEwOCwxMTc4MDA0NzU0LC0xODE2NTE4MjI0LC05Njg5MDI0
+ODIsMTUyNzQ0NTM5MywxNTI3NDQ1MzkzLDE3NjI0NDkxMTFdfQ
+==
 -->
