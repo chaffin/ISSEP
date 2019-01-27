@@ -3,9 +3,9 @@
 ## Risk Management
 
 ### 2.1 [Risk Management Process](task-2.1.md) 
-- Establish risk context 
-- Identify system security risks 
-- Perform risk analysis 
+2.1.1 [ Establish risk context][211] 
+- Identify system security risks ][212]
+- Perform risk analysis ][211]
 - Perform risk evaluation 
 - Recommend risk treatment options
 
@@ -17,3 +17,6 @@
 - Participate in implementation of the remediation or change 
 - Perform verification and validation activities relative to the requirements impacted 
 - Update risk assessment documentation to account for the impact of the remediation or change
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA0Nzg5NDg1MF19
+-->
