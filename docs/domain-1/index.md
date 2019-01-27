@@ -3,10 +3,10 @@
 ## Security Engineering Principles
 
 ### 1.1 [General Security Principles](task-1.1.md)
-- Identify organizational security authority
-- Identify elements of a system security policy
-- Understand trust concepts and hierarchies
-- Determine boundaries governed by security policies
+1.1.1  Identify organizational security authority
+1.1.2  Identify elements of a system security policy
+1.1.3 Understand trust concepts and hierarchies
+1.1.4 Determine boundaries governed by security policies
 - Specify complete mediation
 - Determine least common mechanism
 - Understand open design concepts
@@ -28,3 +28,6 @@
 - Understand economy of mechanism
 - Understand separation of privilege/duties concepts
 - Understand security best practices applicable to the context
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwODAyODk1ODZdfQ==
+-->
