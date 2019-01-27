@@ -3,8 +3,7 @@
 
 ### 1.1 General Security Principles
 
-1.1.1 Identify organizational security authority
-
+##1.1.1 Identify organizational security authority {#111}
 
 1.1.2 Identify elements of a system security policy
 
@@ -21,3 +20,6 @@
 1.1.8 Analyze psychological acceptability/usability
 
 1.1.9 Understand the importance of consistent measurement
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDk5MDc4NzYzXX0=
+-->
