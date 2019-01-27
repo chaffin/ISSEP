@@ -25,15 +25,16 @@ According to Wallach, the principle of *least common mechanism* concerns the dan
 
 ### 1.1.9 Understand the importance of consistent measurement
 
-
-
+---
+---
 [^1]: Gegick,M., Barnum,S.; Basic Principles Of Information Protection, May 10, 2013; web.mit.edu: October 17, 1997, 9:55:27 PM CDT; http://web.mit.edu/Saltzer/www/publications/protection/Basic.html  
 
 [^2]: Least Common Mechanism \| US-CERT; www.us-cert.gov: January 27, 2019, 9:51:15 AM CST; https://www.us-cert.gov/bsi/articles/knowledge/principles/least-common-mechanism  
 
 [^3]: Wallach, Dan; Least Common Mechanism, 7/26/1997; sip.cs.princeton.edu: December 4, 1997, 7:23:11 PM CST; http://sip.cs.princeton.edu/pub/sosp97/node15.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2Mjg0MDQ2LC00NzQ2NTM0OTAsLTkyMj
-I0ODY4NSwxOTUzMjEyNzAzLDE5NzQzODQ3MDIsMTQxMTY5MDg5
-NCwtMTE1NDcwOTcxNywtNTg5NzAyNTMyXX0=
+eyJoaXN0b3J5IjpbMTk3Mjc2MzczMCw3MDYyODQwNDYsLTQ3ND
+Y1MzQ5MCwtOTIyMjQ4Njg1LDE5NTMyMTI3MDMsMTk3NDM4NDcw
+MiwxNDExNjkwODk0LC0xMTU0NzA5NzE3LC01ODk3MDI1MzJdfQ
+==
 -->
