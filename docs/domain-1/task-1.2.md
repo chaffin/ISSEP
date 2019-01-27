@@ -1,5 +1,6 @@
 [Domains](../index.md) | [Tasks](index.md)
 ---
+[#121]
 ### 1.2 Security Risk Management Principles
 
 #### 1.2.1 Align security risk management with enterprise risk management
@@ -18,6 +19,6 @@ According to The [MITRE] Corporation:
 [SDLC]:http://www.iasir.net/IJSWSpapers/IJSWS14-205.pdf
 [MITRE]:https://www.mitre.org/publications/systems-engineering-guide/se-life-cycle-building-blocks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4MTg1MTQ4LDQ5ODE4NTE0OCw4MzY3MD
-c0ODRdfQ==
+eyJoaXN0b3J5IjpbMTczNDk4NjY3Nyw0OTgxODUxNDgsODM2Nz
+A3NDg0XX0=
 -->
