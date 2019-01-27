@@ -34,14 +34,14 @@
 [113]: task-1.1.md#113-understand-trust-concepts-and-hierarchies
 [114]: task-1.1.md#114-determine-boundaries-governed-by-security-policies
 [115]: task-1.1.md#115-specify-complete-mediation
-[116]: task-1.1.md#116
-[117]: task-1.1.md#117
-[118]: task-1.1.md#118
-[119]: task-1.1.md#119
+[116]: task-1.1.md#116-determine-least-common-mechanism
+[117]: task-1.1.md#117-understand-open-design-concepts
+[118]: task-1.1.md#118-analyze-psychological-acceptabilityusability
+[119]: task-1.1.md#119-understand-the-importance-of-consistent-measurement
 [121]: task-1.2.md#121-align-security-risk-management-with-enterprise-risk-management
 [122]: task-1.2.md#122-integrate-risk-management-throughout-the-lifecycle
-[131]: task-1.3.md#131
-[132]: task-1.3.md#132
+[131]: task-1.3.md#131-apply-resilience-methods-to-address-threats
+[132]: task-1.3.md#132-understand-concepts-of-layered-security
 [133]: task-1.3.md#133
 [134]: task-1.3.md#134
 [141]: task-1.4.md#141
@@ -49,10 +49,10 @@
 [143]: task-1.4.md#143
 [144]: task-1.4.md#144
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDY1MzgwMywzMjExMjUwNDksMzc2Mj
-g1Mjg3LDg1Mjc0OTYxOCwxMDIwMTU3MzA1LC0xODA0ODg4NjE5
-LDIzMzU2OTIwLC0xODE2NTE4MjI0LDE1NjI4MzMwNDksLTE2Nz
-IwMTgxMDgsMTE3ODAwNDc1NCwtMTgxNjUxODIyNCwtOTY4OTAy
-NDgyLDE1Mjc0NDUzOTMsMTUyNzQ0NTM5MywxNzYyNDQ5MTExXX
-0=
+eyJoaXN0b3J5IjpbLTE5MzA2NTU4NDQsMzIxMTI1MDQ5LDM3Nj
+I4NTI4Nyw4NTI3NDk2MTgsMTAyMDE1NzMwNSwtMTgwNDg4ODYx
+OSwyMzM1NjkyMCwtMTgxNjUxODIyNCwxNTYyODMzMDQ5LC0xNj
+cyMDE4MTA4LDExNzgwMDQ3NTQsLTE4MTY1MTgyMjQsLTk2ODkw
+MjQ4MiwxNTI3NDQ1MzkzLDE1Mjc0NDUzOTMsMTc2MjQ0OTExMV
+19
 -->
