@@ -31,19 +31,20 @@
 
 [111]: task-1.1.md#111-identify-organizational-security-authority
 [112]: task-1.1.md#112
-[1131]: task-1.1.md#113
-[1141]: task-1.1.md#114
-[1151]: task-1.1.md#115
-[111]: task-1.1.md#116
-[111]: task-1.1.md#117
-[111]: task-1.1.md#118
-[111]: task-1.1.md#119
+[113]: task-1.1.md#113
+[114]: task-1.1.md#114
+[115]: task-1.1.md#115
+[116]: task-1.1.md#116
+[117]: task-1.1.md#117
+[118]: task-1.1.md#118
+[119]: task-1.1.md#119
 [121]: task-1.2.md#121-align-security-risk-management-with-enterprise-risk-management
 [122]: task-1.2.md#122-integrate-risk-management-throughout-the-lifecycle
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTUwODEzNzMsMzc2Mjg1Mjg3LDg1Mj
-c0OTYxOCwxMDIwMTU3MzA1LC0xODA0ODg4NjE5LDIzMzU2OTIw
-LC0xODE2NTE4MjI0LDE1NjI4MzMwNDksLTE2NzIwMTgxMDgsMT
-E3ODAwNDc1NCwtMTgxNjUxODIyNCwtOTY4OTAyNDgyLDE1Mjc0
-NDUzOTMsMTUyNzQ0NTM5MywxNzYyNDQ5MTExXX0=
+eyJoaXN0b3J5IjpbMTI2NzY1NTIzNiwzNzYyODUyODcsODUyNz
+Q5NjE4LDEwMjAxNTczMDUsLTE4MDQ4ODg2MTksMjMzNTY5MjAs
+LTE4MTY1MTgyMjQsMTU2MjgzMzA0OSwtMTY3MjAxODEwOCwxMT
+c4MDA0NzU0LC0xODE2NTE4MjI0LC05Njg5MDI0ODIsMTUyNzQ0
+NTM5MywxNTI3NDQ1MzkzLDE3NjI0NDkxMTFdfQ==
 -->
