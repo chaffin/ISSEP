@@ -19,10 +19,10 @@
 2.2.7 [Update risk assessment documentation to account for the impact of the remediation or change][227]  
 
 
-[211]: task-2.1.md#211
-[212]: task-2.1.md#212
-[213]: task-2.1.md#213
-[214]: task-2.1.md#214
+[211]: task-2.1.md#211-establish-risk-context
+[212]: task-2.1.md#211-establish-risk-context
+[213]: task-2.1.md#213-perform-risk-analysis
+[214]: task-2.1.md#214-perform-risk-evaluation
 [215]: task-2.1.md#215
 [221]: task-2.2.md#221
 [222]: task-2.2.md#222
@@ -32,5 +32,5 @@
 [226]: task-2.2.md#226
 [227]: task-2.2.md#227
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODIwNjIyNTNdfQ==
+eyJoaXN0b3J5IjpbLTE3MDI2ODIwMDJdfQ==
 -->
