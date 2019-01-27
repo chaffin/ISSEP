@@ -15,7 +15,7 @@
 
 ### 1.1.6 Determine least common mechanism
 
-Least common mechanism  To minimize the amount of mechanism common to more than one user and depended on by all users.[^1] Every shared mechanism (especially one involving shared variables) represents a potential information path between users and must be designed with great care to be sure it does not unintentionally compromise security.[^2]
+Least common mechanism  is to minimize the amount of mechanism common to more than one user and depended on by all users.[^1] Every shared mechanism (especially one involving shared variables) represents a potential information path between users and must be designed with great care to be sure it does not unintentionally compromise security.[^2]
 
 Wallach explains the principle of **least common mechanism** concerning its dangers of sharing state among different programs, suggesting that if one program can corrupt a shared state, it can then corrupt other programs which depend on it.[^3]
  
@@ -31,7 +31,7 @@ Wallach explains the principle of **least common mechanism** concerning its dang
 [^2]: Least Common Mechanism \| US-CERT; www.us-cert.gov: January 27, 2019, 9:51:15 AM CST; https://www.us-cert.gov/bsi/articles/knowledge/principles/least-common-mechanism
 [^3]: Wallach, Dan; 7/26/1997, Least Common Mechanism; sip.cs.princeton.edu: December 4, 1997, 7:23:11 PM CST; http://sip.cs.princeton.edu/pub/sosp97/node15.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjI0ODY4NSwxOTUzMjEyNzAzLDE5Nz
-QzODQ3MDIsMTQxMTY5MDg5NCwtMTE1NDcwOTcxNywtNTg5NzAy
-NTMyXX0=
+eyJoaXN0b3J5IjpbMTU2Nzc0NjUzMywtOTIyMjQ4Njg1LDE5NT
+MyMTI3MDMsMTk3NDM4NDcwMiwxNDExNjkwODk0LC0xMTU0NzA5
+NzE3LC01ODk3MDI1MzJdfQ==
 -->
