@@ -3,15 +3,15 @@
 ## Security Engineering Principles
 
 ### 1.1 [General Security Principles](task-1.1.md)
-1.1.1  [Identify organizational security authority](task-1.1.md#111)  
-1.1.2  Identify elements of a system security policy  
-1.1.3 Understand trust concepts and hierarchies  
-1.1.4 Determine boundaries governed by security policies  
-1.1.5 Specify complete mediation  
-1.1.6 Determine least common mechanism  
-1.1.7 Understand open design concepts  
-1.1.8 Analyze psychological acceptability/usability  
-1.1.9 Understand the importance of consistent measurement  
+1.1.1  [Identify organizational security authority][111]  
+1.1.2  [Identify elements of a system security policy[112]  
+1.1.3 [Understand trust concepts and hierarchies][113]  
+1.1.4 [Determine boundaries governed by security policies][114]  
+1.1.5 [Specify complete mediation][115]  
+1.1.6 [Determine least common mechanism][116]  
+1.1.7 [Understand open design concepts][117]  
+1.1.8 [Analyze psychological acceptability/usability][118]  
+1.1.9 [Understand the importance of consistent measurement][119]  
 
 ### 1.2 [Security Risk Management Principles](task-1.2.md)
 1.2.1  [Align security risk management with enterprise risk management][121]  
@@ -32,7 +32,7 @@
 [121]: task-1.2.md#121-align-security-risk-management-with-enterprise-risk-management
 [122]: task-1.2.md#122-integrate-risk-management-throughout-the-lifecycle
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNzUwOTc3LDg1Mjc0OTYxOCwxMDIwMT
+eyJoaXN0b3J5IjpbMzc2Mjg1Mjg3LDg1Mjc0OTYxOCwxMDIwMT
 U3MzA1LC0xODA0ODg4NjE5LDIzMzU2OTIwLC0xODE2NTE4MjI0
 LDE1NjI4MzMwNDksLTE2NzIwMTgxMDgsMTE3ODAwNDc1NCwtMT
 gxNjUxODIyNCwtOTY4OTAyNDgyLDE1Mjc0NDUzOTMsMTUyNzQ0
