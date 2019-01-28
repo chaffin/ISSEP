@@ -33,11 +33,11 @@ Psychological acceptability
 
 [^2]: Least Common Mechanism \| US-CERT; www.us-cert.gov: January 27, 2019, 9:51:15 AM CST; https://www.us-cert.gov/bsi/articles/knowledge/principles/least-common-mechanism  
 
-[^3]: Wallach, Dan; Least Common Mechanism, 7/26/1997; sip.cs.princeton.edu: December 4, 1997, 7:23:11 PM CST; http://sip.cs.princeton.edu/pub/sosp97/node15.html
+[^3]: Wallach, Dan; Least Common Mechanism, 7/26/1997; sip.cs.princeton.edu: December 4, 1997; http://sip.cs.princeton.edu/pub/sosp97/node15.html
 
-[^4]: Saltzer and Schroeder, The Protection of Information in Computer Systems,
+[^4]: Saltzer and Schroeder, The Protection of Information in Computer Systems, April 17. 1975; www.cs.virginia.edu: January 27, 2019; https://www.cs.virginia.edu/~evans/cs551/saltzer/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjQxODY5NCwtODgzMjU2NjI4LC0yNz
+eyJoaXN0b3J5IjpbLTg2MTU3OTk5MCwtODgzMjU2NjI4LC0yNz
 Y0NTM3MzAsLTU0ODQxNDc2MSw3MDYyODQwNDYsLTQ3NDY1MzQ5
 MCwtOTIyMjQ4Njg1LDE5NTMyMTI3MDMsMTk3NDM4NDcwMiwxND
 ExNjkwODk0LC0xMTU0NzA5NzE3LC01ODk3MDI1MzJdfQ==
