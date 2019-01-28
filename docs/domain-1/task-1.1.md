@@ -5,8 +5,7 @@
 
 ### 1.1.1 Identify organizational security authority
 
-### 
-1.1.2 Identify elements of a system security policy
+### 1.1.2 Identify elements of a system security policy
 
 ### 1.1.3 Understand trust concepts and hierarchies
 
@@ -33,8 +32,8 @@ According to Wallach, the principle of *least common mechanism* concerns the dan
 
 [^3]: Wallach, Dan; Least Common Mechanism, 7/26/1997; sip.cs.princeton.edu: December 4, 1997, 7:23:11 PM CST; http://sip.cs.princeton.edu/pub/sosp97/node15.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjQ1MzczMCwtNTQ4NDE0NzYxLDcwNj
-I4NDA0NiwtNDc0NjUzNDkwLC05MjIyNDg2ODUsMTk1MzIxMjcw
-MywxOTc0Mzg0NzAyLDE0MTE2OTA4OTQsLTExNTQ3MDk3MTcsLT
-U4OTcwMjUzMl19
+eyJoaXN0b3J5IjpbLTg4MzI1NjYyOCwtMjc2NDUzNzMwLC01ND
+g0MTQ3NjEsNzA2Mjg0MDQ2LC00NzQ2NTM0OTAsLTkyMjI0ODY4
+NSwxOTUzMjEyNzAzLDE5NzQzODQ3MDIsMTQxMTY5MDg5NCwtMT
+E1NDcwOTcxNywtNTg5NzAyNTMyXX0=
 -->
