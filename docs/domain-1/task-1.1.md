@@ -25,7 +25,7 @@ According to Wallach, the principle of *least common mechanism* concerns the dan
 Psychological acceptability
 : It is essential that the human interface be designed for ease of use, so that users routinely and automatically apply the protection mechanisms correctly. Also, to the extent that the user's mental image of his protection goals matches the mechanisms he must use, mistakes will be minimized. If he must translate his image of his protection needs into a radically different specification language, he will make errors.[^4]
 
-According to Gegick and Barnum, psychological acceptability means "resources should not be inhibited by security mechanisms". If security mechanisms hinder the usability or accessibility of resources, then users may opt to turn off those mechanisms". Where possible, security mechanisms should be transparent to the users of the system or at most introduce minimal obstruction. Security mechanisms should be user friendly to facilitate their use and understanding in a software application.
+According to Gegick and Barnum, psychological acceptability means "resources should not be inhibited by security mechanisms since users may turn off security mechanisms if they hinder usability or accessibility or resources.[%. If security mechanisms hinder the usability or accessibility of resources, then users may opt to turn off those mechanisms". Where possible, security mechanisms should be transparent to the users of the system or at most introduce minimal obstruction. Security mechanisms should be user friendly to facilitate their use and understanding in a software application.
 
 ### 1.1.9 Understand the importance of consistent measurement
 
@@ -38,9 +38,9 @@ According to Gegick and Barnum, psychological acceptability means "resources sho
 
 [^4]: Saltzer and Schroeder, The Protection of Information in Computer Systems, April 17. 1975; www.cs.virginia.edu: January 27, 2019; https://www.cs.virginia.edu/~evans/cs551/saltzer/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDgwMDA4MCwxMTk1MTExNjI2LC0xMj
-QxNDI5MzY1LC04ODMyNTY2MjgsLTI3NjQ1MzczMCwtNTQ4NDE0
-NzYxLDcwNjI4NDA0NiwtNDc0NjUzNDkwLC05MjIyNDg2ODUsMT
-k1MzIxMjcwMywxOTc0Mzg0NzAyLDE0MTE2OTA4OTQsLTExNTQ3
-MDk3MTcsLTU4OTcwMjUzMl19
+eyJoaXN0b3J5IjpbLTE1NDMzOTQyOTksMTE5NTExMTYyNiwtMT
+I0MTQyOTM2NSwtODgzMjU2NjI4LC0yNzY0NTM3MzAsLTU0ODQx
+NDc2MSw3MDYyODQwNDYsLTQ3NDY1MzQ5MCwtOTIyMjQ4Njg1LD
+E5NTMyMTI3MDMsMTk3NDM4NDcwMiwxNDExNjkwODk0LC0xMTU0
+NzA5NzE3LC01ODk3MDI1MzJdfQ==
 -->
