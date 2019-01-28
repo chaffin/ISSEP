@@ -3,46 +3,31 @@
 ## Security Engineering Principles
 
 ### 1.1 [General Security Principles](task-1.1.md)
-1.1.1  [- Identify organizational security authority][111]  
-1.1.2  [
-- Identify elements of a system security policy][112]  
-1.1.3 [
-- Understand trust concepts and hierarchies][113]  
-1.1.4 [
-- Determine boundaries governed by security policies][114]  
-1.1.5 [
-- Specify complete mediation][115]  
-1.1.6 [
-- Determine least common mechanism][116]  
-1.1.7 [
-- Understand open design concepts][117]  
-1.1.8 [
-- Analyze psychological acceptability/usability][118]  
-1.1.9 [
-- Understand the importance of consistent measurement][119]  
+1.1.1  [Identify organizational security authority][111]  
+1.1.2  [Identify elements of a system security policy][112]  
+1.1.3 [Understand trust concepts and hierarchies][113]  
+1.1.4 [Determine boundaries governed by security policies][114]  
+1.1.5 [Specify complete mediation][115]  
+1.1.6 [Determine least common mechanism][116]  
+1.1.7 [Understand open design concepts][117]  
+1.1.8 [Analyze psychological acceptability/usability][118]  
+1.1.9 [Understand the importance of consistent measurement][119]  
 
 ### 1.2 [Security Risk Management Principles](task-1.2.md)
-1.2.1  [- Align security risk management with enterprise risk management][121]  
-1.2.2  [
-- Integrate risk management throughout the lifecycle][122]
+1.2.1  [Align security risk management with enterprise risk management][121]  
+1.2.2  [Integrate risk management throughout the lifecycle][122]
 
 ### 1.3 [System Resilience Principles](task-1.3.md)
-1.3.1  [- Apply resilience methods to address threats][131]  
-1.3.2  [
-- Understand concepts of layered security][132]  
-1.3.3  [
-- Specify fail-safe defaults][133]  
-1.3.4  [
-- Avoid single points of failure][134]  
+1.3.1  [Apply resilience methods to address threats][131]  
+1.3.2  [Understand concepts of layered security][132]  
+1.3.3  [Specify fail-safe defaults][133]  
+1.3.4  [Avoid single points of failure][134]  
 
 ### 1.4 [Vulnerability Management Principles](task-1.4.md)
-1.4.1  [- Incorporate least privilege concepts][141]  
-1.4.2  [
-- Understand economy of mechanism][142]  
-1.4.3  [
-- Understand separation of privilege/duties concepts][143]  
-1.4.4  [
-- Understand security best practices applicable to the context][144]  
+1.4.1  [Incorporate least privilege concepts][141]  
+1.4.2  [Understand economy of mechanism][142]  
+1.4.3  [Understand separation of privilege/duties concepts][143]  
+1.4.4  [Understand security best practices applicable to the context][144]  
 
 [111]: task-1.1.md#111-identify-organizational-security-authority
 [112]: task-1.1.md#112-identify-elements-of-a-system-security-policy
@@ -64,10 +49,10 @@
 [143]: task-1.4.md#143-understand-separation-of-privilegeduties-concepts
 [144]: task-1.4.md#144-understand-security-best-practices-applicable-to-the-context
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDEwNDk5MCwtNjU3NTg3MjM1LDMyMT
-EyNTA0OSwzNzYyODUyODcsODUyNzQ5NjE4LDEwMjAxNTczMDUs
-LTE4MDQ4ODg2MTksMjMzNTY5MjAsLTE4MTY1MTgyMjQsMTU2Mj
-gzMzA0OSwtMTY3MjAxODEwOCwxMTc4MDA0NzU0LC0xODE2NTE4
-MjI0LC05Njg5MDI0ODIsMTUyNzQ0NTM5MywxNTI3NDQ1MzkzLD
-E3NjI0NDkxMTFdfQ==
+eyJoaXN0b3J5IjpbLTY1NzU4NzIzNSwtOTg0MTA0OTkwLC02NT
+c1ODcyMzUsMzIxMTI1MDQ5LDM3NjI4NTI4Nyw4NTI3NDk2MTgs
+MTAyMDE1NzMwNSwtMTgwNDg4ODYxOSwyMzM1NjkyMCwtMTgxNj
+UxODIyNCwxNTYyODMzMDQ5LC0xNjcyMDE4MTA4LDExNzgwMDQ3
+NTQsLTE4MTY1MTgyMjQsLTk2ODkwMjQ4MiwxNTI3NDQ1MzkzLD
+E1Mjc0NDUzOTMsMTc2MjQ0OTExMV19
 -->
