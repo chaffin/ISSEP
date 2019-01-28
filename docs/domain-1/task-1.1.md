@@ -40,11 +40,11 @@ Where possible, security mechanisms should be transparent to the users of the sy
 
 [^4]: Saltzer and Schroeder, The Protection of Information in Computer Systems, April 17. 1975; www.cs.virginia.edu: January 27, 2019; https://www.cs.virginia.edu/~evans/cs551/saltzer/
 
-[^5]: Gegick,M., Barnum,S.; Basic Principles Of Information Protection, May 10, 2013; web.mit.edu: October 17, 1997, 9:55:27 PM CDT; https://www.us-cert.gov/bsi/articles/knowledge/principles/psychological-acceptability
+[^5]: Gegick,M., Barnum,S.; Psychological Acceptability \| US-CERT, May 10, 2013; www.us-cert.gov: ; https://www.us-cert.gov/bsi/articles/knowledge/principles/psychological-acceptability
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTY3MjA3MzIsMTE5NTExMTYyNiwtMT
-I0MTQyOTM2NSwtODgzMjU2NjI4LC0yNzY0NTM3MzAsLTU0ODQx
-NDc2MSw3MDYyODQwNDYsLTQ3NDY1MzQ5MCwtOTIyMjQ4Njg1LD
-E5NTMyMTI3MDMsMTk3NDM4NDcwMiwxNDExNjkwODk0LC0xMTU0
-NzA5NzE3LC01ODk3MDI1MzJdfQ==
+eyJoaXN0b3J5IjpbOTQ4OTg2NTMxLDExOTUxMTE2MjYsLTEyND
+E0MjkzNjUsLTg4MzI1NjYyOCwtMjc2NDUzNzMwLC01NDg0MTQ3
+NjEsNzA2Mjg0MDQ2LC00NzQ2NTM0OTAsLTkyMjI0ODY4NSwxOT
+UzMjEyNzAzLDE5NzQzODQ3MDIsMTQxMTY5MDg5NCwtMTE1NDcw
+OTcxNywtNTg5NzAyNTMyXX0=
 -->
