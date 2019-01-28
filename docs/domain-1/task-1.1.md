@@ -31,13 +31,13 @@ Psychological acceptability
 ---
 [^1]: Gegick,M., Barnum,S.; Basic Principles Of Information Protection, May 10, 2013; web.mit.edu: October 17, 1997, 9:55:27 PM CDT; http://web.mit.edu/Saltzer/www/publications/protection/Basic.html  
 
-[^2]: Least Common Mechanism \| US-CERT; www.us-cert.gov: January 27, 2019, 9:51:15 AM CST; https://www.us-cert.gov/bsi/articles/knowledge/principles/least-common-mechanism  
+[^2]: Least Common Mechanism \| US-CERT, May 10, 2013; www.us-cert.gov: January 27, 2019; https://www.us-cert.gov/bsi/articles/knowledge/principles/least-common-mechanism  
 
 [^3]: Wallach, Dan; Least Common Mechanism, 7/26/1997; sip.cs.princeton.edu: December 4, 1997; http://sip.cs.princeton.edu/pub/sosp97/node15.html
 
 [^4]: Saltzer and Schroeder, The Protection of Information in Computer Systems, April 17. 1975; www.cs.virginia.edu: January 27, 2019; https://www.cs.virginia.edu/~evans/cs551/saltzer/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTU3OTk5MCwtODgzMjU2NjI4LC0yNz
+eyJoaXN0b3J5IjpbMTEwMjI0MTc2NSwtODgzMjU2NjI4LC0yNz
 Y0NTM3MzAsLTU0ODQxNDc2MSw3MDYyODQwNDYsLTQ3NDY1MzQ5
 MCwtOTIyMjQ4Njg1LDE5NTMyMTI3MDMsMTk3NDM4NDcwMiwxND
 ExNjkwODk0LC0xMTU0NzA5NzE3LC01ODk3MDI1MzJdfQ==
