@@ -1,6 +1,7 @@
 [Domains](../index.md) | [Tasks](index.md)
 ---
-## 2.1 Risk Management Process 
+
+### 2.1 Risk Management Process 
 
 ### 2.1.1 Establish risk context 
 
@@ -12,5 +13,5 @@
 
 ### 2.1.5 Recommend risk treatment options
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDI4NTQyMV19
+eyJoaXN0b3J5IjpbMTM5ODM5NzQwMiwtOTQwMjg1NDIxXX0=
 -->
