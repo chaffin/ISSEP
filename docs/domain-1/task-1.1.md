@@ -39,10 +39,12 @@ Where possible, security mechanisms should be transparent to the users of the sy
 [^3]: Wallach, Dan; Least Common Mechanism, 7/26/1997; sip.cs.princeton.edu: December 4, 1997; http://sip.cs.princeton.edu/pub/sosp97/node15.html
 
 [^4]: Saltzer and Schroeder, The Protection of Information in Computer Systems, April 17. 1975; www.cs.virginia.edu: January 27, 2019; https://www.cs.virginia.edu/~evans/cs551/saltzer/
+
+[^5]: Gegick,M., Barnum,S.; Basic Principles Of Information Protection, May 10, 2013; web.mit.edu: October 17, 1997, 9:55:27 PM CDT; http://web.mit.edu/Saltzer/www/publications/protection/Basic.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzg2NzU4NjgsMTE5NTExMTYyNiwtMT
-I0MTQyOTM2NSwtODgzMjU2NjI4LC0yNzY0NTM3MzAsLTU0ODQx
-NDc2MSw3MDYyODQwNDYsLTQ3NDY1MzQ5MCwtOTIyMjQ4Njg1LD
-E5NTMyMTI3MDMsMTk3NDM4NDcwMiwxNDExNjkwODk0LC0xMTU0
-NzA5NzE3LC01ODk3MDI1MzJdfQ==
+eyJoaXN0b3J5IjpbLTIzMDI3MzQxOCwxMTk1MTExNjI2LC0xMj
+QxNDI5MzY1LC04ODMyNTY2MjgsLTI3NjQ1MzczMCwtNTQ4NDE0
+NzYxLDcwNjI4NDA0NiwtNDc0NjUzNDkwLC05MjIyNDg2ODUsMT
+k1MzIxMjcwMywxOTc0Mzg0NzAyLDE0MTE2OTA4OTQsLTExNTQ3
+MDk3MTcsLTU4OTcwMjUzMl19
 -->
