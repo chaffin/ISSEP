@@ -22,6 +22,9 @@ According to Wallach, the principle of *least common mechanism* concerns the dan
 ### 1.1.7 Understand open design concepts
 
 ### 1.1.8 Analyze psychological acceptability/usability
+Psychological acceptability
+: It is essential that the human interface be designed for ease of use, so that users routinely and automatically apply the protection mechanisms correctly. Also, to the extent that the user's mental image of his protection goals matches the mechanisms he must use, mistakes will be minimized. If he must translate his image of his protection needs into a radically different specification language, he will make errors.
+
 
 ### 1.1.9 Understand the importance of consistent measurement
 
@@ -32,8 +35,8 @@ According to Wallach, the principle of *least common mechanism* concerns the dan
 
 [^3]: Wallach, Dan; Least Common Mechanism, 7/26/1997; sip.cs.princeton.edu: December 4, 1997, 7:23:11 PM CST; http://sip.cs.princeton.edu/pub/sosp97/node15.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzI1NjYyOCwtMjc2NDUzNzMwLC01ND
-g0MTQ3NjEsNzA2Mjg0MDQ2LC00NzQ2NTM0OTAsLTkyMjI0ODY4
-NSwxOTUzMjEyNzAzLDE5NzQzODQ3MDIsMTQxMTY5MDg5NCwtMT
-E1NDcwOTcxNywtNTg5NzAyNTMyXX0=
+eyJoaXN0b3J5IjpbLTI5NDYzNzgyOCwtODgzMjU2NjI4LC0yNz
+Y0NTM3MzAsLTU0ODQxNDc2MSw3MDYyODQwNDYsLTQ3NDY1MzQ5
+MCwtOTIyMjQ4Njg1LDE5NTMyMTI3MDMsMTk3NDM4NDcwMiwxND
+ExNjkwODk0LC0xMTU0NzA5NzE3LC01ODk3MDI1MzJdfQ==
 -->
