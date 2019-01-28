@@ -25,7 +25,7 @@ According to Wallach, the principle of *least common mechanism* concerns the dan
 Psychological acceptability
 : It is essential that the human interface be designed for ease of use, so that users routinely and automatically apply the protection mechanisms correctly. Also, to the extent that the user's mental image of his protection goals matches the mechanisms he must use, mistakes will be minimized. If he must translate his image of his protection needs into a radically different specification language, he will make errors.[^4]
 
-Accessibility to resources should not be inhibited by security mechanisms. If security mechanisms hinder the usability or accessibility of resources, then users may opt to turn off those mechanisms. Where possible, security mechanisms should be transparent to the users of the system or at most introduce minimal obstruction. Security mechanisms should be user friendly to facilitate their use and understanding in a software application.
+According to Gegick and Barnum, Accessibility to resources should not be inhibited by security mechanisms. If security mechanisms hinder the usability or accessibility of resources, then users may opt to turn off those mechanisms. Where possible, security mechanisms should be transparent to the users of the system or at most introduce minimal obstruction. Security mechanisms should be user friendly to facilitate their use and understanding in a software application.
 
 ### 1.1.9 Understand the importance of consistent measurement
 
@@ -38,8 +38,9 @@ Accessibility to resources should not be inhibited by security mechanisms. If se
 
 [^4]: Saltzer and Schroeder, The Protection of Information in Computer Systems, April 17. 1975; www.cs.virginia.edu: January 27, 2019; https://www.cs.virginia.edu/~evans/cs551/saltzer/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE0MjkzNjUsLTg4MzI1NjYyOCwtMj
-c2NDUzNzMwLC01NDg0MTQ3NjEsNzA2Mjg0MDQ2LC00NzQ2NTM0
-OTAsLTkyMjI0ODY4NSwxOTUzMjEyNzAzLDE5NzQzODQ3MDIsMT
-QxMTY5MDg5NCwtMTE1NDcwOTcxNywtNTg5NzAyNTMyXX0=
+eyJoaXN0b3J5IjpbMTE5NTExMTYyNiwtMTI0MTQyOTM2NSwtOD
+gzMjU2NjI4LC0yNzY0NTM3MzAsLTU0ODQxNDc2MSw3MDYyODQw
+NDYsLTQ3NDY1MzQ5MCwtOTIyMjQ4Njg1LDE5NTMyMTI3MDMsMT
+k3NDM4NDcwMiwxNDExNjkwODk0LC0xMTU0NzA5NzE3LC01ODk3
+MDI1MzJdfQ==
 -->
