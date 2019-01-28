@@ -1,6 +1,7 @@
 [Domains](../index.md) | [Tasks](index.md)
 ---
-## 2.2 Operational Risk Management
+
+### 2.2 Operational Risk Management
 
 ### 2.2.1 Confirm operational risk appetite 
 
@@ -16,5 +17,5 @@
 
 ### 2.2.7 Update risk assessment documentation to account for the impact of the remediation or change
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTc3ODkzNl19
+eyJoaXN0b3J5IjpbLTEzNDg5MTE4MywxMDI5Nzc4OTM2XX0=
 -->
