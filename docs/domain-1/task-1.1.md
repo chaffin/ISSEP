@@ -35,10 +35,9 @@ Psychological acceptability
 
 [^3]: Wallach, Dan; Least Common Mechanism, 7/26/1997; sip.cs.princeton.edu: December 4, 1997, 7:23:11 PM CST; http://sip.cs.princeton.edu/pub/sosp97/node15.html
 
-[^4]: Saltzer J. HSALTZER, SENIOR MEMBER, IEEE, AND  
-MICHAEL D. SCHROEDER, MEMBER, IEEE
+[^4]: Saltzer and Schroeder, The Protection of Information in Computer Systems,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTk1NDg5OSwtODgzMjU2NjI4LC0yNz
+eyJoaXN0b3J5IjpbMTE0MjQxODY5NCwtODgzMjU2NjI4LC0yNz
 Y0NTM3MzAsLTU0ODQxNDc2MSw3MDYyODQwNDYsLTQ3NDY1MzQ5
 MCwtOTIyMjQ4Njg1LDE5NTMyMTI3MDMsMTk3NDM4NDcwMiwxND
 ExNjkwODk0LC0xMTU0NzA5NzE3LC01ODk3MDI1MzJdfQ==
