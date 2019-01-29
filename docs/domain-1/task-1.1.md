@@ -22,29 +22,20 @@ According to Wallach, the principle of *least common mechanism* concerns the dan
 ### 1.1.7 Understand open design concepts
 
 ### 1.1.8 Analyze psychological acceptability/usability
-Psychological acceptability
-: It is essential that the human interface be designed for ease of use, so that users routinely and automatically apply the protection mechanisms correctly. Also, to the extent that the user's mental image of his protection goals matches the mechanisms he must use, mistakes will be minimized. If he must translate his image of his protection needs into a radically different specification language, he will make errors.[^4]
 
-According to Gegick and Barnum, psychological acceptability means resources should not be inhibited by security mechanisms because users may turn off security mechanisms if they hinder usability or accessibility or resources.[^5]
+In thier manauscript "*The Protection of Information in Computer Systems*" Saltzer and Schroder cite psychological acceptability as one of eight examples of design principles that apply particularly to protection mechanisms, and maintain that "[i]t is essential that the human interface be designed for ease of use, so that users routinely and automatically apply the protection mechanisms correctly."[^4]
 
-Where possible, security mechanisms should be transparent to the users of the system or at most introduce minimal obstruction. Security mechanisms should be user friendly to facilitate their use and understanding in a software application.
+According to Gegick and Barnum, psychological acceptability means resources should not be inhibited by security mechanisms because users may turn off security mechanisms if they hinder usability or accessibility or resources. They suggest that where possible, security mechanisms should be transparent to the users of the system or at most be user friendly, introducing minimal obstruction to facilitate their use and understanding in a software application.[^5]
 
 ### 1.1.9 Understand the importance of consistent measurement
 
 ---
-[^1]: Gegick,M., Barnum,S.; Basic Principles Of Information Protection, May 10, 2013; web.mit.edu: October 17, 1997, 9:55:27 PM CDT; http://web.mit.edu/Saltzer/www/publications/protection/Basic.html  
+[^1]: Saltzer. "*Basic Principles Of Information Protection,*" May 10, 2013; web.mit.edu: October 17, 1997, http://web.mit.edu/Saltzer/www/publications/protection/Basic.html  
 
-[^2]: Least Common Mechanism \| US-CERT, May 10, 2013; www.us-cert.gov: January 27, 2019; https://www.us-cert.gov/bsi/articles/knowledge/principles/least-common-mechanism  
+[^2]: Michael Gegick and Sean Barnum. "*Least Common Mechanism*", May 10, 2013; www.us-cert.gov: January 27, 2019; https://www.us-cert.gov/bsi/articles/knowledge/principles/least-common-mechanism  
 
 [^3]: Wallach, Dan; Least Common Mechanism, 7/26/1997; sip.cs.princeton.edu: December 4, 1997; http://sip.cs.princeton.edu/pub/sosp97/node15.html
 
-[^4]: Saltzer and Schroeder, The Protection of Information in Computer Systems, April 17. 1975; www.cs.virginia.edu: January 27, 2019; https://www.cs.virginia.edu/~evans/cs551/saltzer/
+[^4]: Saltzer and Schroeder. "*The Protection of Information in Computer Systems*", April 17. 1975; www.cs.virginia.edu, January 27, 2019, https://www.cs.virginia.edu/~evans/cs551/saltzer/
 
-[^5]: Gegick,M., Barnum,S.; Psychological Acceptability \| US-CERT, May 10, 2013; www.us-cert.gov:January 27, 2019; https://www.us-cert.gov/bsi/articles/knowledge/principles/psychological-acceptability
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjY1Mzg2NCwxMTk1MTExNjI2LC0xMj
-QxNDI5MzY1LC04ODMyNTY2MjgsLTI3NjQ1MzczMCwtNTQ4NDE0
-NzYxLDcwNjI4NDA0NiwtNDc0NjUzNDkwLC05MjIyNDg2ODUsMT
-k1MzIxMjcwMywxOTc0Mzg0NzAyLDE0MTE2OTA4OTQsLTExNTQ3
-MDk3MTcsLTU4OTcwMjUzMl19
--->
+[^5]: Michael Gegick and Sean Barnum. "*Psychological Acceptability*", May 10, 2013; www.us-cert.gov, January 27, 2019, https://www.us-cert.gov/bsi/articles/knowledge/principles/psychological-acceptability
