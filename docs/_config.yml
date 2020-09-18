@@ -1,1 +1,3 @@
 theme: jekyll-theme-cayman
+baseurl: /ISSEP
+<link rel="stylesheet" href="{{ "/assets/css/style.css, " | prepend: site.baseurl }}">
